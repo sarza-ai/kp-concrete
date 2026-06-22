@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kp-static",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "-l", "4321", "C:/Users/jchip/sarza.ai/kp-concrete-redesign"],
+      "port": 4321
+    }
+  ]
+}
